@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://emac141.github.io/mywebsite/sitemap.xml
